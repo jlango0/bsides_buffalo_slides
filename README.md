@@ -1,5 +1,5 @@
 # BSides Buffalo 2026, Slides—Version History
-## v 0.1.0
+## v 0.1.0, Mon 6-8-26
 - As presented at BSides Buffalo
 	- With a few images re-edited to fix redaction of PII
     - Includes a few minor errors, in the interest of keeping it exactly as-is
@@ -8,11 +8,10 @@
 ### TODO for future revisions of these slides—
 #### TODO for Major Sections—
 - _Protect Others_ section—Add slides
-- <code>eslogger</code> demo section—Short video to demonstrate eslogger, since I ran out of time before that section
+- <code>eslogger</code> demo section—Short video to demonstrate eslogger, since I ran out of time
 
 #### Additional TODOs—
-- Link all resources directly, instead of providing cross-references to links
-    - **_still need to add those xrefs right now**_
+- Link all resources directly
 - Add any info I mentioned during the talk, that isn't already included in these slides
 	- The only one I recall offhand is [Mandiant's Unified Logging System parser](https://github.com/mandiant/macos-UnifiedLogs), which is built into the [European Commission's Sysdiagnose Analysis Framework tool](https://github.com/EC-DIGIT-CSIRC/sysdiagnose)
 	- Will need to hear the recording once it's posted on BSides Buffalo's YouTube channel, so I can track down anything else that needs a link
