@@ -1,5 +1,6 @@
 # BSides Buffalo 2026, Slides—Version History
 ## v 0.1.0, Mon 6-8-26
+- [Full resolution slides are on my site](https://www.jlango.com/bsides_buffalo_slides_0.1.0_full_resolution.pdf), since GitHub caps upload size
 - As presented at BSides Buffalo
 	- With a few images re-edited to fix redaction of PII
     - Includes a few minor errors, in the interest of keeping it exactly as-is
@@ -17,6 +18,10 @@
 	- Will need to hear the recording once it's posted on BSides Buffalo's YouTube channel, so I can track down anything else that needs a link
     - _If you were at the talk and remember anything, please reach out and I'll add it asap!_
 - Fix minor errors mentioned above—layout, grammar
+- ~~Cross-post current version of slides to jlango.com, at higher resolution~~
+    - Added later on Mon 6-8-26
+    - Reason—Medium resolution on GitHub is mostly legible, but screenshots aren't always rendered well
+
 ### TODO before submitting this talk to future events—
 - Timing for individual sections—check recording, decide what to cut in order to fit all sections into the allotted time
     - Alternatively, rewrite abstract for future CFPs, and focus presentation on fewer sections
