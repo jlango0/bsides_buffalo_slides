@@ -1,5 +1,17 @@
-# BSides Buffalo 2026, Slides—Version History
-## v 0.1.0, Mon 6-8-26
+# Slides for "But... Macs Don't Get Viruses, Right? How to Start Learning macOS / iOS Security"
+
+## Related Links
+### Material I've posted previously, and referred to in this talk—
+- [Apple Resource List](https://gist.github.com/jlango0/7bccd19e931d6d2bc4f4d8bf2559e718), currently posted as a GitHub Gist
+- [Additional resources related primarily to Sysdiagnose on iOS](https://www.linkedin.com/feed/update/urn:li:activity:7457880623710564353/), from a LinkedIn post after giving a short version of this talk.  Also includes blog links from iVerify, Google Threat Intelligence Group, and Lookout on Coruna, DarkSword, etc.
+- [Short List of Objective By The Sea (OBTS) and Related Talks](https://www.jlango.com/short-list), on my own site
+- [Objective for the We (OFTW) v3.0, Career Panel Discussion](https://www.jlango.com/oftw3-panel)
+
+### External Sites—
+- [Sessionize page w/ abstract for my talk at BSides Buffalo 2026](https://bsides-buffalo-2026.sessionize.com/session/1197699)
+- [YouTube recording, on BSides Buffalo's channel](https://www.youtube.com/watch?v=RuaEcRl1XT4)
+
+## Slides v 0.1.0, Mon 6-8-26
 - [Full resolution slides are on my site](https://www.jlango.com/bsides_buffalo_slides_0.1.0_full_resolution.pdf), since GitHub caps upload size
 - As presented at BSides Buffalo
 	- With a few images re-edited to fix redaction of PII
